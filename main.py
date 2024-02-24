@@ -6,7 +6,7 @@ import pandas as pd
 from io import BytesIO
 
 # OpenAI API Key
-api_key = "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"
+api_key = "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"
 
 # Function to encode the image
 def encode_image(uploaded_file):
